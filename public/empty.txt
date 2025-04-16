@@ -1,1 +1,1 @@
-Ce fichier est requis pour la configuration.
+Ce fichier est requis pour la configuration
