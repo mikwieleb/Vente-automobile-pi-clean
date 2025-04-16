@@ -1,0 +1,3 @@
+const handlePayment = () => {
+    // Logic for handling Pi Network payment
+}
